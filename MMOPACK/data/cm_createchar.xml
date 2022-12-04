@@ -1,0 +1,15 @@
+ <?xml version="1.0" encoding="utf-8"?>
+<xml>
+   <items>
+      <item id="1463" amount="1" vik="yes" mon="yes" eur="yes"/>
+      <item id="301" amount="1" vik="yes" mon="yes" eur="yes"/>
+      <item id="1465" amount="1" vik="yes" mon="yes" eur="yes"/>
+      <item id="1466" amount="1" vik="yes" mon="yes" eur="yes"/>
+      <item id="1467" amount="1" vik="yes" mon="yes" eur="yes"/>
+      <item id="789" amount="40" vik="yes" mon="yes" eur="yes"/>
+      <item id="342" amount="100" vik="yes" mon="yes" eur="yes"/>
+      <item id="44" amount="1" vik="yes" mon="yes" eur="yes"/>
+      <item id="1580" amount="1" vik="yes" mon="yes" eur="yes"/>
+      <item id="1663" amount="1" vik="yes" mon="yes" eur="yes"/>
+   </items>
+</xml>
